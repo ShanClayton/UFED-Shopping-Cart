@@ -1,8 +1,6 @@
-<<<<<<< HEAD
-=======
+
 #Shopping Cart Project 2
 
->>>>>>> 6f01dc8b328a015bea275c64edda43b86e6127d7
 # Shopping Cart Functionality
 
 You will be creating the core functionality used for a storefront application. The visual of the storefront as well as the JavaScript necessary to connect the code you will write, to that visual have already been created.
